@@ -6,7 +6,7 @@ http://www.templatemo.com/tm-516-known
 
 */
 
-  @import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');
+  /*@import url('https://fonts.googleapis.com/css?family=Muli:300,700|Nunito');*/
 
   body {
     background: #ffffff;
@@ -270,9 +270,10 @@ http://www.templatemo.com/tm-516-known
 
   .custom-navbar .navbar-brand {
     color: #454545;
-    font-size: 18px;
+    font-size: 28px;
     font-weight: bold;
     line-height: 40px;
+    font-family: 幼圆;
   }
 
   .custom-navbar .navbar-nav.navbar-nav-first {
@@ -835,6 +836,7 @@ http://www.templatemo.com/tm-516-known
     position: relative;
     padding: 0;
     margin: 0;
+    background-color:#29ca8e;
   }
 
   .social-icon li {
@@ -858,7 +860,7 @@ http://www.templatemo.com/tm-516-known
   }
 
   .social-icon li a:hover {
-    background: #29ca8e;
+    background-color: #3c763d;
     color: #ffffff;
   }
 
